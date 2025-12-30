@@ -1,5 +1,7 @@
 # odin-landing-page
 
+Live Preview: https://induvarman.github.io/odin-landing-page/index.html
+
 Built With
 
 - HTML5 - Semantic Structure
